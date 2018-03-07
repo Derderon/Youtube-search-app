@@ -1,0 +1,9 @@
+vzdy pokial kopirujes projekt bez node_modules musis do konzoly v projekte spustit prikaz
+   npm install
+
+Youtube API:
+   Aktivovat Youtube Data API v3
+   vytvorit premennu API_KEY a priradit jej vygenerovany API_KEY
+   npm install --save youtube-api-search
+
+npm install --save lodash
